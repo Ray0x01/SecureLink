@@ -69,3 +69,7 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 <!-- GitAds-Verify: HR3QDBVQ69YWV8TU1B9396OXLKGAYP2D -->
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=ray0x01/securelink@github)](https://gitads.dev/v1/ad-track?source=ray0x01/securelink@github)
+
+
