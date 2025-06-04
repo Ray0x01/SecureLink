@@ -67,3 +67,5 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+<!-- GitAds-Verify: HR3QDBVQ69YWV8TU1B9396OXLKGAYP2D -->
+
